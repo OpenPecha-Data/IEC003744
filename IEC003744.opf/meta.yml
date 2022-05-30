@@ -1,0 +1,96 @@
+id: IEC003744
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:25:56.491842'
+last_modified: '2022-05-30T18:25:56.491847'
+parser: null
+source_metadata:
+  title: Chatral Rinpoche
+  language: pt
+  description: 'Texts by and about the great Dzogchen master Chatral Sangye Dorje
+    (bya bral sangs rgyas rdo rje, 1913–2015):'
+  volume:
+    fFFFD:
+      title: Spontaneous Advice Connected with a Prayer
+      base_file: fFFFD.txt
+      order: 1
+      parent: Advice
+    f04C5:
+      title: The Benefits of Saving Lives
+      base_file: f04C5.txt
+      order: 2
+      parent: Advice
+    fAACD:
+      title: Words of Advice
+      base_file: fAACD.txt
+      order: 3
+      parent: Advice
+    f2E0A:
+      title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+        Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times
+        In the Form of an Aspiration Prayer'
+      base_file: f2E0A.txt
+      order: 4
+      parent: Aspiration Prayers
+    f75A3:
+      title: 'The Excellent Path of Supreme Great Bliss: A Prayer for Calling the
+        Guru from Afar'
+      base_file: f75A3.txt
+      order: 5
+      parent: Calling the Guru from Afar
+    f0A38:
+      title: A Profound and Concise Guru Yoga
+      base_file: f0A38.txt
+      order: 6
+      parent: Guru Yoga
+    f287D:
+      title: Introduction to The Excellent Path of Devotion
+      base_file: f287D.txt
+      order: 7
+      parent: Introductions
+    fCA54:
+      title: Prayer for the Long Life of Namkhai Norbu Rinpoche
+      base_file: fCA54.txt
+      order: 8
+      parent: Long Life Prayers
+    fC468:
+      title: Prayer for the Long Life of Soktsé Rinpoche
+      base_file: fC468.txt
+      order: 9
+      parent: Long Life Prayers
+    f2618:
+      title: A Guide to Uḍḍiyāna (Ujjain), Benglor
+      base_file: f2618.txt
+      order: 10
+      parent: Pilgrimage
+    f4FFD:
+      title: 'Melodious Tambura of Delight: A Guide to Māratika Cave, Supreme Site
+        of Immortality'
+      base_file: f4FFD.txt
+      order: 11
+      parent: Pilgrimage
+    f44CF:
+      title: Essence of All the Buddhas of Past, Present and Future
+      base_file: f44CF.txt
+      order: 12
+      parent: Prayers
+    fBAAD:
+      title: 'The Condensed Essence: A Daily Practice of the Wrathful Guru Takhyung
+        Barwa'
+      base_file: fBAAD.txt
+      order: 13
+      parent: Sādhanas
+    fD0AB:
+      title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+        Rinpoche
+      base_file: fD0AB.txt
+      order: 14
+      parent: Vows & Commitments
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
